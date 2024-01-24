@@ -3,3 +3,4 @@ Currency Converter is a user-friendly Flutter application that seamlessly operat
 # Screenshot of the Real-time Application
 ![S1](screenshots/S1.png)
 
+![S2](screenshots/S2.png)
